@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="name_label">Nome</string>
+    <string name="email_label">eMail</string>
+    <string name="bio_label">Biografia</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="name_hint">Inserisci qui il nome...</string>
+    <string name="email_hint">Inserisci qui la mail...</string>
+    <string name="bio_hint">Inserisci qui la tua biografia...</string>
+    <string name="select_text_choser">Seleziona una foto</string>
+    <string name="changed_saved">Modifiche salvate</string>
+    <string name="take_photo">Cattura una foto</string>
+    <string name="chose_library">Scegli dalla galleria</string>
+    <string name="remove_photo">Rimuovi la foto</string>
+    <string name="add_photo">Cambia foto</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="name_label">Name</string>
+    <string name="email_label">eMail</string>
+    <string name="bio_label">Biography</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="name_hint">Insert the name here...</string>
+    <string name="email_hint">Insert the email here...</string>
+    <string name="bio_hint">Insert the biography here...</string>
+    <string name="select_text_choser">Select a photo</string>
+    <string name="changed_saved">Changed saved</string>
+    <string name="take_photo">Take a photo</string>
+    <string name="chose_library">Choose from library</string>
+    <string name="remove_photo">Remove photo</string>
+    <string name="add_photo">Add photo</string>
+</resources>
